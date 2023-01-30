@@ -1,0 +1,27 @@
+{
+  "name": "jwt-access-and-refresh-token-authentication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanmayhedau/JWT-access-and-refresh-token-authentication.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanmayhedau/JWT-access-and-refresh-token-authentication/issues"
+  },
+  "homepage": "https://github.com/tanmayhedau/JWT-access-and-refresh-token-authentication#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^6.9.0",
+    "nodemon": "^2.0.20"
+  }
+}
