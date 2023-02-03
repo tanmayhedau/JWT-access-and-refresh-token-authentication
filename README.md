@@ -1,6 +1,6 @@
 # JWT-access-and-refresh-token-authentication
 
-Backend app
+Backend application
 
 step 1: use npm start in the terminal to run the server.
 
